@@ -6,6 +6,7 @@ storyboard to present the insight found in data. Expecting to graduate at the mi
 
 
 ## Projects Examples
+  - Bellabeat Case Study @ https://github.com/Heatescape/PortfolioProjects/tree/main/Bellabeat
   - Covid-19 Exploration @ https://github.com/Heatescape/PortfolioProjects/tree/main/Covid-19
   - Movie Industry Exploration @ https://github.com/Heatescape/PortfolioProjects/tree/main/MovieIndustry
   - Nashville Housing Exploration @ https://github.com/Heatescape/PortfolioProjects/tree/main/NashvilleHousing
