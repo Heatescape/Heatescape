@@ -2,7 +2,7 @@
  
 # Hi there 👋, My name is Jiayu Huang
 I am a Student at University of Technology Sydney and currently study in data analysis direction. Acquire google data analysis certificate in October 2022. Meticulous and detail-oriented with excellent observational, organizational and communication skills. I can ask effective questions and collaborate with those who are interested. I can use spreadsheets like Microsoft excel and google sheets, read, and write SQL queries, python code and R code. Able to create data visualizations using dashboard and 
-storyboard to present the insight found in data. Expecting to graduate at the middle of 2023, and I desire to find an internship or entry level job related to data analysis.
+storyboard to present the insight found in data. 
 
 
 ## Projects Examples
